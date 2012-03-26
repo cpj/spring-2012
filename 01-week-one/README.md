@@ -2,9 +2,11 @@
 #fun. design. vagrant. git. heroku.  
 
 ##blog.
-Start a blog, or use an existing one. I recommend tumblr.com. Tag all your posts for the contract with something like spring2012 (or whatever, just make sure you tag every post for the contract the same each time).Send me the link to the page of your blog for that tag.
+Start a blog, or use an existing one. I recommend tumblr.com. Tag all your posts for the contract with something like spring2012 (or whatever, just make sure you tag every post for the contract the same each time).Send me the link to the page of your blog for that tag.  
 
-Do one blog post at the end of the week discussing what you’re struggling with most so far, what you’re enjoying, and come up with as many ideas as you can about how what you’re learning could be applied to the publications of a news organization.
+Do one blog post at the end of the week discussing what you’re struggling with most so far, what you’re enjoying, and come up with as many ideas as you can about how what you’re learning could be applied to the publications of a news organization.  
+
+Also: take notes about everything, and take screen shots of everything. Set up a folder on the computer you use to take screenshots of what you're working on. Every day, take at least one screen shot and write some notes about what you're working on. And blog that stuff.  
 
 ##image macros.
 This week you will create 10 image macros using Adobe Illustrator. 
