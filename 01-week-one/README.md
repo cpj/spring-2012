@@ -15,6 +15,6 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 
 ##start your portfolio site.
 There will be a few steps to setting up your portfolio site:  
-- 1. Set up a vagrant box that you’ll use to work on your portfolio site. Instructions.
-- 2. Fork a github repository to use as a starterkit for your portfolio site. Instructions.
-- 3. Create a basic site (with only test content) and push it to heroku.com. Instructions.
+- 1. Set up a vagrant box that you’ll use to work on your portfolio site. Instructions.  
+- 2. Fork a github repository to use as a starterkit for your portfolio site. Instructions.  
+- 3. Create a basic site (with only test content) and push it to heroku.com. Instructions.  
