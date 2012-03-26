@@ -14,7 +14,7 @@ For the first five, choose an existing meme. Use the standard photo or illustrat
 For the second five, come up with something new. Maybe it’s about Evergreen, or Olympia, or a video game you like to play. But you must create the images. Take photos or draw illustrations. Do five image macros for this new meme you’re creating, or make five completely different ones. Just make sure that you are creating something new. And of course, sometimes creating something new means combining things we’re already familiar with and doing totally unexpected things with them. But obviously, doing some ol’ lolcats isn’t good enough for this part of the assignment.
 
 ##start your portfolio site.
-There will be a few steps to setting up your portfolio site:  
+###There will be a few steps to setting up your portfolio site:  
 - 1. Set up a vagrant box that you’ll use to work on your portfolio site. Instructions.  
 - 2. Fork a github repository to use as a starterkit for your portfolio site. Instructions.  
 - 3. Create a basic site (with only test content) and push it to heroku.com. Instructions.  
