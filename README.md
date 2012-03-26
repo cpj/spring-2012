@@ -15,3 +15,4 @@ Weekly assignments are due on the following Monday. So, something assigned in we
 - jqfundamentals.com
 - dontfeartheinternet.com
 - and lynda.com
+- _others to be determined based on the projects you choose_
