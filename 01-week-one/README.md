@@ -21,6 +21,9 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - 2. Fork a github repository to use as a starterkit for your portfolio site. Instructions.  
 - 3. Create a basic site (with only test content) and push it to heroku.com. Instructions.  
 
+##read some stuff:
+- Read the first chapter of _The Design of Everyday Things_.
+  - Be aware: this book uses old examples. Your academic duty is to think about the concepts in the book and apply them to building news-focused websites.
 
 # to recap: work to complete before Monday of week 2:
 - a link to your blog. 

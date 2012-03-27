@@ -30,11 +30,18 @@ So add some basic content to your portfolio, stuff like your goals for the quart
 Experiment a little.  
 
 ###read some stuff:
-- Read the first two chapters of _The Design of Everyday Things_.
-  - Be aware: this book uses old examples. Your academic duty is to think about the concepts in the book and apply them to building news-focused websites.
-  
+- Read chapter two of _The Design of Everyday Things_.
+- Read chapter one of _Sinatra: Up and Running_.
+  - You may start reading this and say, "Dang, I don't know what any of this is talking about."
+  - This is normal.
+  - Deal with it.
+  - Attempt to recreate the basic examples it gives you. Use what you learned about the command line from week one.
+  - Do your best to follow along with the examples on your own. Ask questions.
+  - If you can't get it to work, it's ok. We'll go over this stuff on Monday of week 3.
+ 
   
 #recap: stuff you'll turn in monday of week 3:
 - Blog some screenshots of your progress with codeyear courses, and write about what it was like to get started programming.  
 - Write a 500+ word blog post that combines what you've learned from dontfeartheinternet.com and _The Design of Everyday Things_.  
 - Do a blog post with screenshots of and a link to your revised portfolio site.  
+- Do a blog post that shows how far you got in following the instructions from chapter one of _Sinatra: Up and Running_.
