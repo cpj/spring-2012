@@ -3,7 +3,7 @@
 ##Weekly meetings:
 to be determined.  
 
-##When homework is due:
+##When assigned work is due:
 Weekly assignments are due on the following Monday. So, something assigned in week one is due Monday of week two.
 
 ##Books and other reading/resources:

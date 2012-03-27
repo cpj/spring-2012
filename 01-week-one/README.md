@@ -20,3 +20,11 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - 1. Set up a vagrant box that you’ll use to work on your portfolio site. Instructions.  
 - 2. Fork a github repository to use as a starterkit for your portfolio site. Instructions.  
 - 3. Create a basic site (with only test content) and push it to heroku.com. Instructions.  
+
+
+# to recap: work to complete before Monday of week 2:
+- a link to your blog. 
+- 10 image macros.
+- a link to your portfolio site on heroku.com
+- a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication.
+- screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.
