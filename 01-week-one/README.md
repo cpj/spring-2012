@@ -25,7 +25,7 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - Read the first chapter of _The Design of Everyday Things_.
   - Be aware: this book uses old examples. Your academic duty is to think about the concepts in the book and apply them to building news-focused websites.
 - Read [this question and all its answers on quora.com](http://www.quora.com/Learning-to-Program/I-get-very-frustrated-when-code-that-I-write-behaves-unexpectedly-scream-shout-blame-myself-for-being-a-failure-give-up-etc-I-think-this-is-impacting-my-ability-to-concentrate-on-my-work-due-to-the-negativity-I-try-maintaining-calm-however-the-stress-always-seems-to-overcome-me-Is-there-any-way-to).
-- 
+
 # to recap: work to complete before Monday of week 2:
 - a link to your blog. 
 - 10 image macros.
