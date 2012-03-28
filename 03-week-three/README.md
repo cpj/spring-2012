@@ -1,5 +1,5 @@
 ##week 3
-#In which we do some compelling work with something.
+#In which we work with javascript, and like it.
 
 ##javascript:
 - Complete the week 2 courses from codeyear.com
@@ -11,6 +11,11 @@ This is a really great jquery plugin.
 First, a little background: jquery is a library that makes it easier to use javascript to work with the html elements on your site.
 To get started learning jquery, go to jqfundamentals.com.  
 
+## refactor your portfolio site
+You will do three things to refactor your portfolio site:
+- use sinatra views rather than a static index.html page.
+- use jquery.backstretch.js on the layout view
+- revise the css so that the text has a semi-transparent background over the photo background of the site.
 
 ##read some stuff:
 - Read chapter three of _The Design of Everyday Things_.

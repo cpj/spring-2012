@@ -32,8 +32,8 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - Also check out [this other Ben Huh talk about internet culture](http://www.youtube.com/watch?v=1gBgyIWSEoU).
 
 # to recap: work to complete before Monday of week 2:
-- a link to your blog. 
+- a link to your blog.  
 - 10 image macros.  
+- a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.  
 - a link to your portfolio site on heroku.com  
 - a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication. Include in this blog post discussion of the quora q&a about failure and frustration, the Ben Huh talks about internet culture and about failure and learning, and the Elan Lee talk about the evolution of storytelling.
-- a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.
