@@ -6,7 +6,7 @@ Start a blog, or use an existing one. I recommend tumblr.com. Tag all your posts
 
 Do one blog post at the end of the week discussing what you’re struggling with most so far, what you’re enjoying, and come up with as many ideas as you can about how what you’re learning could be applied to the publications of a news organization.  
 
-Also: take notes about everything, and take screen shots of everything. Set up a folder on the computer you use to take screenshots of what you're working on. Every day, take at least one screen shot and write some notes about what you're working on. And blog that stuff.  
+Also: take notes about everything, and take screen shots of everything. Set up a folder on the computer you use to store screenshots of what you're working on. Every day, take at least one screen shot and write some notes about what you're working on. Blog that stuff.  
 
 ##image macros.
 Did you know that the name for lolcats, for images with overlaid text, is image macros?! [Here's some proof](http://www.quora.com/Whats-the-name-for-lolcats-and-other-photos-illustrations-with-catchphrases), and [some more](http://en.wikipedia.org/wiki/Image_macro).  
@@ -32,8 +32,7 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - Also check out [this other Ben Huh talk about internet culture](http://www.youtube.com/watch?v=1gBgyIWSEoU).
 
 # to recap: work to complete before Monday of week 2:
-- a link to your blog.  
-- 10 image macros.  
-- a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.  
-- a link to your portfolio site on heroku.com  
+- email a link to your blog.  
+- blog posts for 10 image macros. 5 based on existing memes, 5 based on something new.  
+- a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku, and a link to your portfolio site on heroku.com  
 - a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication. Include in this blog post discussion of the quora q&a about failure and frustration, the Ben Huh talks about internet culture and about failure and learning, and the Elan Lee talk about the evolution of storytelling.

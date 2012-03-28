@@ -8,7 +8,7 @@ week 1 work due on Monday.
 You are about to do some programming. You are about to program using Javascript.
 ###Do these things:  
 - sign up at codeyear.com / codecademy.com if you haven't already.  
-- complete the week 1 courses from codeyear.com
+- complete the [week 1 courses from codeyear.com](http://www.codecademy.com/curricula/code-year/units/1)
   - do the Getting Started with Progamming lesson
   - and the FizzBuzz project.
   
