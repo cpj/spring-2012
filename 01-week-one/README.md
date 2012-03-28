@@ -28,11 +28,12 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
   - Be aware: this book uses old examples. Your academic duty is to think about the concepts in the book and apply them to building news-focused websites.
 - Read [this question and all its answers on quora.com](http://www.quora.com/Learning-to-Program/I-get-very-frustrated-when-code-that-I-write-behaves-unexpectedly-scream-shout-blame-myself-for-being-a-failure-give-up-etc-I-think-this-is-impacting-my-ability-to-concentrate-on-my-work-due-to-the-negativity-I-try-maintaining-calm-however-the-stress-always-seems-to-overcome-me-Is-there-any-way-to).
 - Watch and listen as a [game designer describes the history of storytelling](http://www.youtube.com/watch?v=uyyrW8bIk6M&feature=relmfu), and talks about how storytelling online will evolve in unexpected ways. Think about what this can mean for journalism. If the first novels disclaimed "this is not fiction", and the first movies conveyed "this is not a movie", what, in your estimation, have news websites been saying they are not?
-- Ben Huh. CEO of the Cheezburger Network. Cool dude. [Watch and listen to this talk](http://www.youtube.com/watch?v=11s2gFUGWz8) he did about how his first company was a failure, and how it ultimately helped him start I Can Has Cheezburger.
+- Ben Huh. CEO of the Cheezburger Network. Cool dude. [Watch and listen to this talk](http://www.youtube.com/watch?v=11s2gFUGWz8) he did about how his first company was a failure, and how it ultimately helped him start I Can Has Cheezburger. Watch this to know the history to the Cheezburger Network, to get a sense of the work it took, to understand what drove Huh to create some awesome blogs. Think about how to apply some of the ideas in this talk to your work.  
+- Also check out [this other Ben Huh talk about internet culture](http://www.youtube.com/watch?v=1gBgyIWSEoU).
 
 # to recap: work to complete before Monday of week 2:
 - a link to your blog. 
-- 10 image macros.
-- a link to your portfolio site on heroku.com
-- a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication. Include in this blog post discussion of the quora q&a about failure and frustration, the Ben Huh talk about failure, and the Elan Lee talk about the evolution of storytelling.
+- 10 image macros.  
+- a link to your portfolio site on heroku.com  
+- a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication. Include in this blog post discussion of the quora q&a about failure and frustration, the Ben Huh talks about internet culture and about failure and learning, and the Elan Lee talk about the evolution of storytelling.
 - a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.
