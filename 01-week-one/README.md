@@ -31,4 +31,4 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 - 10 image macros.
 - a link to your portfolio site on heroku.com
 - a blog post about what you've accomplished, what you're struggling with, and how to apply your learning to a news publication.
-- screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.
+- a blog post with screenshots of the process of setting up a vagrant box, forking the github repository, and working with git to push your site to heroku.
