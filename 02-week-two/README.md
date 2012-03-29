@@ -43,6 +43,6 @@ Experiment a little.
   
 #recap: stuff you'll turn in monday of week 3:
 - Blog some screenshots of your progress with codeyear courses, and write about what it was like to get started programming.  
-- Write a 500+ word blog post that combines what you've learned from dontfeartheinternet.com and _The Design of Everyday Things_.  
+- Write a 500+ word blog post that discusses what you've learned from dontfeartheinternet.com, _Code Simplicity_, _Sinatra: Up and Running_, and _The Design of Everyday Things_.  
 - Do a blog post with screenshots of and a link to your revised portfolio site.  
 - Do a blog post that shows how far you got in following the instructions from chapter one of _Sinatra: Up and Running_.
