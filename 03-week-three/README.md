@@ -24,7 +24,8 @@ To get started learning jquery, go to jqfundamentals.com.
 - Use jquery.backstretch.js on the layout view. And yse the animated gif you created as the image being used as the background.      
 - Uevise the css so that the text has a semi-transparent background over the photo background of the site.  
 
-##read some stuff:
+##reading and other stuff:
+- Watch [this PBS video about animated gifs](http://www.youtube.com/watch?v=vuxKb5mxM8g).
 - Read chapter three of _The Design of Everyday Things_.
 - Read chapter two of _Sinatra: Up and Running_.
 - Start reading jqfundamentals.com
