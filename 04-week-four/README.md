@@ -23,8 +23,6 @@ Now is when you decide what to focus on for the rest of the quarter. Now you cho
 ##reading and other stuff:
 - Read chapter four of _Code Simplicity_.
 - Read chapter four of _The Design of Everyday Things_.
-- Read chapter three of _Sinatra: Up and Running_.
-- Use [jqfundamentals.com](http://jqfundamentals.com) as a resource.
 
 #TO TURN IN:
 - The lists you created in preparing for your project.
