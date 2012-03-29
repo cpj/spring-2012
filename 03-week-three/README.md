@@ -11,7 +11,7 @@ First, a little background: jquery is a library that makes it easier to use java
 To get started learning jquery, go to jqfundamentals.com.  
 
 ## refactor your portfolio site
-You will do three things to refactor your portfolio site:
+*You will do three things to refactor your portfolio site:*
 - use sinatra views rather than a static index.html page.
 - use jquery.backstretch.js on the layout view
 - revise the css so that the text has a semi-transparent background over the photo background of the site.
