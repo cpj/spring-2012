@@ -6,7 +6,7 @@ Now is when you decide what to focus on for the rest of the quarter. Now you cho
 
 ###Here's some guidelines:
 - Your project must involve editing code, and must build on what you've learned so far.  
-- You may want to consider what sort of projects a news organization would find most useful. More importantly, consider what kinds of information-sharing projects people in a community would find most useful, informational, and/or entertaining.  
+- You may want to consider what sort of projects a news organization would find most useful. More importantly, consider what kinds of news-focused projects people in a community would find most useful, informational, and/or entertaining.  
 
 ###Some prep for completing your project:
 - Make a list of the types of information people need to know. _Include links to a few examples._
