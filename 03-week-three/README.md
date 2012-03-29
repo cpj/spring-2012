@@ -2,12 +2,12 @@
 #Javascript. Gifs.
 
 ##animated gifs.
-We all love these. Does anyone not love these.  
+We all love these. Does anyone not love these?  
 You will make three of them. 
 ###Three animated gifs.  
 - One of them can be anything you want. Do this one first. make it simple.
 - One must tell a story, must convey true information.
-- One must be large, about 1500x1500 pixels. You will use this later.
+- One must be large, about 1500x1500 pixels. You will use this later. Keep reading.  
 
 For all three: you can use photos, illustrations, frames from videos, whatever. Focus on using your own images.  
 
@@ -38,3 +38,5 @@ To get started learning jquery, go to jqfundamentals.com.
 - Write extensively – as much as you can – about your end goals in building websites for sharing information. Why are you interested in journalism? In the web? Describe the gap between your goals and the knowledge and skills you have. Describe how you can best help others to close the gap between their knowledge and skills and the goals they have with journalism and web development.   
 - Post your three animated gifs, and talk about what you found most interesting about putting them together.
 - Post a link to and screenshots of your refactored portfolio site now that it uses backstretch.js to put your animated gif as the background. Write about how awesome that is.  
+- Push your work with the portfolio site to its github repository.  
+- Post screenshots of your progress with codeyear.com  
