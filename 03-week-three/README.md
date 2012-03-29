@@ -26,6 +26,7 @@ To get started learning jquery, go to jqfundamentals.com.
 
 ##reading and other stuff:
 - Watch [this PBS video about animated gifs](http://www.youtube.com/watch?v=vuxKb5mxM8g).
+- Read chapter three of _Code Simplicity_.
 - Read chapter three of _The Design of Everyday Things_.
 - Read chapter two of _Sinatra: Up and Running_.
 - Use [jqfundamentals.com](http://jqfundamentals.com) as a resource.
