@@ -30,6 +30,7 @@ So add some basic content to your portfolio, stuff like your goals for the quart
 Experiment a little.  
 
 ##read some stuff:
+- Read chapter two of _Code Simplicity_.
 - Read chapter two of _The Design of Everyday Things_.
 - Read chapter one of _Sinatra: Up and Running_.
   - You may start reading this and say, "Dang, I don't know what any of this is talking about."
