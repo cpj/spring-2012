@@ -12,9 +12,9 @@ To get started learning jquery, go to jqfundamentals.com.
 
 ## refactor your portfolio site
 **You will do three things to refactor your portfolio site:**  
-- use sinatra views rather than a static index.html page.
-- use jquery.backstretch.js on the layout view
-- revise the css so that the text has a semi-transparent background over the photo background of the site.
+- use sinatra views rather than a static index.html page.  
+- use jquery.backstretch.js on the layout view.    
+- revise the css so that the text has a semi-transparent background over the photo background of the site.  
 
 ##read some stuff:
 - Read chapter three of _The Design of Everyday Things_.
