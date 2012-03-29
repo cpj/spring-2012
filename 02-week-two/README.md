@@ -18,7 +18,7 @@ _Here's why it's important:_
 ### You must learn to program, and to program, you must learn to think analytically.
 
 ##dontfeartheinternet.com
-- If you haven't already, watch all the videos at dontfeartheinternet.com
+- If you haven't already, watch all the videos at [dontfeartheinternet.com](http://dontfeartheinternet.com).
 
 ##your site on heroku.com
 So last week you pushed a tiny site with test content to heroku.com. Good work!
