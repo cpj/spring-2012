@@ -30,3 +30,6 @@ To get started learning jquery, go to jqfundamentals.com.
 - Read chapter three of _The Design of Everyday Things_.
 - Read chapter two of _Sinatra: Up and Running_.
 - Use [jqfundamentals.com](http://jqfundamentals.com) as a resource.
+
+##recap: do some blog posts, take some screenshots, the usual.  
+- Write extensively – as much as you can – about your end goals in building websites for sharing information. Why are you interested in journalism? In the web? Describe the gap between your goals and the knowledge and skills you have. Describe how you can best help others to close the gap between their knowledge and skills and the goals they have with journalism and web development.   
