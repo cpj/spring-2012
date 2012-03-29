@@ -18,12 +18,10 @@ Now is when you decide what to focus on for the rest of the quarter. Now you cho
 - Create a hand-drawn sketch of what you think the various views of the project will look like.
 - Write a proposal that explains the functionality of the project.
 
-
-
 ##reading and other stuff:
 - Read chapter four of _Code Simplicity_.
 - Read chapter four of _The Design of Everyday Things_.
 
 #TO TURN IN:
-- The lists you created in preparing for your project.
+- Post the lists you created in preparing for your project.
 - A blog post that describes the goal of your project, the open source tools you expect you will use to complete the project, a screenshot of the sketches you did of how the project will look, and a description of the functionality of the project.
