@@ -26,6 +26,7 @@ To get started learning jquery, go to jqfundamentals.com.
 
 ##reading and other stuff:
 - Watch [this PBS video about animated gifs](http://www.youtube.com/watch?v=vuxKb5mxM8g).
+- Read [Adobe documentation to learn about animation frames in Photoshop](http://help.adobe.com/en_US/Photoshop/11.0/WSC9CD6949-D63F-4299-A024-A212F541F77Ea.html).  
 - Read chapter three of _Code Simplicity_.
 - Read chapter three of _The Design of Everyday Things_.
 - Read chapter two of _Sinatra: Up and Running_.
