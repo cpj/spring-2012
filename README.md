@@ -13,6 +13,7 @@ At the end of the quarter you'll be expected to complete a portfolio that compre
 
 ##Books and other reading/resources:
 - The Design of Everyday Things
+- Code Simplicity  
 - Responsive Web Design
 - Sinatra: Up and Running
 - codecadamy.com
