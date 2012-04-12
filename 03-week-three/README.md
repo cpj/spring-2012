@@ -6,7 +6,7 @@ We all love these. Does anyone not love these?
 You will make three of them. 
 ###Three animated gifs.  
 - One of them can be anything you want. Do this one first. make it simple.
-- One must tell a story, must convey true information.
+- One must convey true information.
 - One must be large, about 1500x1500 pixels. You will use this later. Keep reading.  
 
 For all three: you can use photos, illustrations, frames from videos, whatever. Focus on using your own images.  
