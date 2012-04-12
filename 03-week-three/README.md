@@ -20,11 +20,13 @@ This is a really great jquery plugin.
 First, a little background: jquery is a library that makes it easier to use javascript to work with the html elements on your site.
 To get started learning jquery, go to jqfundamentals.com.  
 
-## refactor your portfolio site
-**You will do three things to refactor your portfolio site:**  
-- Use sinatra views rather than a static index.html page.  
-- Use jquery.backstretch.js on the layout view. And yse the animated gif you created as the image being used as the background.      
-- Uevise the css so that the text has a semi-transparent background over the photo background of the site.  
+## add content to your portfolio site
+**Based on what you've learned from the first two weeks:**  
+- Set up a vagrant box with git.  
+- Clone your portfolio repository.      
+- Change the content in the index.html to be actual portfolio info.
+  - Include links to your profiles on codecademy.com, github.com, your contract blogs, etc.
+  - Explain your goals for this quarter.
 
 ##reading and other stuff:
 - Watch [this PBS video about animated gifs](http://www.youtube.com/watch?v=vuxKb5mxM8g).
