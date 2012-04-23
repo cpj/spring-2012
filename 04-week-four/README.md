@@ -1,7 +1,7 @@
 ##week 4
 
 # html & css
-Complete all 4 units of html & css lessons at: http://www.codecademy.com/tracks/web  
+Complete the first two units of html & css lessons at: http://www.codecademy.com/tracks/web  
 
 
 #Choose your path.
