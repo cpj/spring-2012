@@ -7,6 +7,9 @@ Complete the first two units of html & css lessons at: http://www.codecademy.com
 ##Javascript assignment:
 - Create a map using leaflet.js that has pop-ups of a series of photographs in a specific location.  
 
+## html / css / js documentation
+- Get familiar with the [Mozilla Docs Center](https://developer.mozilla.org/en-US/docs), some of the best documentation available for javascript, html, and css.
+
 ##Sinatra
 - Make sure you have real content on your portfolio site.  
 - Add your leaflet map to your portfolio site.  
