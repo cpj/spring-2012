@@ -1,7 +1,7 @@
 #HELLO.  
 
 ##Weekly meetings:
-to be determined.  
+Mondays at 1 p.m.    
 
 ##When assigned work is due:
 Weekly assignments are due on the following Monday. So, something assigned in week one is due Monday of week two.
