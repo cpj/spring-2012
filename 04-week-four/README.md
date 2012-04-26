@@ -19,6 +19,7 @@ Now is when you decide what to focus on for the rest of the quarter. Now you cho
 - Make a list of ways you can distribute content on the web. _Include links to a few examples._
 - Mash up these three lists by identifying which types of information are best served by which content types and delivery methods.
 - Use these lists to help you decide what you're most interested in.
+- Find roughly 5-6 examples of online publications and describe elements of their work that you want to emulate and build upon.  
 - Do research to determine what open source software will help you build your project.
 - Create a hand-drawn sketch of what you think the various views of the project will look like.
 - Write a proposal that explains the functionality of the project.
