@@ -5,7 +5,7 @@
 - Create a map using leaflet.js that has pop-ups of a series of photographs in a specific location.  
 
 ##Sinatra
-- Refactor your portfolio site to use the Sinatra::Base class. Learn how to do this by reading chapter three of _Sinatra: Up and Running_.
+- Refactor your portfolio site to use views. Learn how to do this by reading chapter three of _Sinatra: Up and Running_.
 
 ##reading and other stuff:
 - Read chapter five of _Code Simplicity_.
