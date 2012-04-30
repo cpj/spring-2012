@@ -6,6 +6,11 @@ Complete the first two units of html & css lessons at: http://www.codecademy.com
 
 ##Javascript assignment:
 - Create a map using leaflet.js that has pop-ups of a series of photographs in a specific location.  
+- you'll need these files:  
+  - map.js - this will be your custom code that creates the leaflet map.  
+  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
+  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
+  - include a few paragraphs as a news brief describing the importance of the location and topic you chose.
 
 ## html / css / js documentation
 - Get familiar with the [Mozilla Docs Center](https://developer.mozilla.org/en-US/docs), some of the best documentation available for javascript, html, and css.
