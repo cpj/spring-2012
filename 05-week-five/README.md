@@ -1,9 +1,6 @@
 ##week 5
 #IN WHICH YOU START YOUR PROJECT.
 
-##codecademy.com:  
-Complete the first two units of html & css lessons at: http://www.codecademy.com/tracks/web
-
 ##Javascript assignment:
 - Create a map using leaflet.js that has pop-ups of a series of photographs in a specific location.  
 - you'll need these files:  
