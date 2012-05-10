@@ -21,7 +21,7 @@ For the second five, come up with something new. Maybe it’s about Evergreen, o
 ###There will be a few steps to setting up your portfolio site:  
 - 1. Set up a vagrant box that you’ll use to work on your portfolio site. Instructions.  
 - 2. Create a github account and set up git on your vagrant box. Instructions.  
-- 3. Fork a github repository and create a basic site (with only test content) and push it to heroku.com. [Instructions](https://github.com/cpj/cpj.github.com/wiki/getting-started-with-static-pages-using-sinatra-on-heroku).  
+- 3. Fork a github repository and create a basic site (with only test content) and push it to heroku.com. [Instructions](https://github.com/cpj/guides/wiki/Static-pages-with-sinatra-on-heroku).  
 
 ##read and watch some stuff:
 - Read chapter one of _Code Simplicity_.
